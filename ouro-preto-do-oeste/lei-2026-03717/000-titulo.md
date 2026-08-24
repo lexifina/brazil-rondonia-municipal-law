@@ -1,0 +1,4 @@
+# LEI Nº 3.717, DE 24 DE AGOSTO DE 2026.
+"Dispõe sobre a criação do Fundo Municipal de Infraestrutura de Transporte e Habitação FMITHA Municipal, estabelece sua vinculação administrativa, define suas receitas, disciplina sua gestão e dá outras providências. " O Prefeito do Município da Estância Turística Ouro Preto do Oeste-RO, no uso de suas atribuições legais, nos termos da Constituição Federal, Estadual e Lei Orgânica Municipal;
+Considerando a Lei Complementar Estadual nº 292, de 29 de dezembro de 2003, com as alterações promovidas pela Lei Complementar Estadual nº 1.333, de 6 de abril de 2026, bem como o Decreto Estadual º 31.722 de 23/06/2026, e outros que alterarem;
+Faz saber que a Câmara Municipal da Estância Turística Ouro Preto do Oeste-RO aprovou e fica sancionado a seguinte Lei:
