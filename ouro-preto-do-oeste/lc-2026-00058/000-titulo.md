@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 58, DE 15 DE SETEMBRO DE 2026.
+"Altera Dispositivos da Lei Complementar nº 56, de 12 de Maio de 2026 que, "Dispõe Sobre a Reestruturação dos Cargos Comissionados e Funções Gratificadas, Para o Exercício das Atribuições de Direção, Chefia e Assessoramento do Quadro Administrativo Municipal, e dá Outras Providências'' O Prefeito do Município de Ouro Preto do Oeste/RO, faz saber que a Câmara Municipal de Vereadores aprovou e Ele sanciona a seguinte Lei:
