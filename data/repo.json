@@ -1,0 +1,17 @@
+{
+ "country": "BR-RO-MUNICIPAL",
+ "name": "Rondônia: municipal chambers",
+ "tz": "America/Porto_Velho",
+ "future_branch": "futuro",
+ "publisher": "Câmaras Municipais de Rondônia (SAPL)",
+ "units": [
+  {
+   "id": "guajara-mirim",
+   "folder": "guajara-mirim",
+   "name": "Guajará-Mirim",
+   "code": "BR-RO-GUAJARA-MIRIM",
+   "official_code": "1100106",
+   "source": "sapl.guajaramirim.ro.leg.br"
+  }
+ ]
+}

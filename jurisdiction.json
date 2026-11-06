@@ -1,0 +1,12 @@
+{
+  "path": "br-ro-municipal",
+  "code": "BR-RO-MUNICIPAL",
+  "name": "Rondônia (municipal chambers)",
+  "level": "municipalities",
+  "parent": "br-ro",
+  "repo": "https://github.com/lexifina/brazil-rondonia-municipal-law",
+  "build": "built: the municipal law of Rondônia from the Câmaras Municipais' SAPL",
+  "units": [
+    "guajara-mirim"
+  ]
+}
