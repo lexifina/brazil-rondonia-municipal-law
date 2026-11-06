@@ -585,6 +585,111 @@
      "sha256": "cb3c4c25931652c653dbe6a237b9df7e817334857884970c840e2dc85e352659"
     }
    ]
+  },
+  {
+   "slug": "ouro-preto-do-oeste/lei-2026-03724",
+   "unit": "ouro-preto-do-oeste",
+   "short": "Lei 3724/2026",
+   "title": "Lei nº 3.724, de 15 de setembro de 2026",
+   "url": "https://sapl.ouropretodooeste.ro.leg.br/norma/4033",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 6,
+     "source_url": "https://sapl.ouropretodooeste.ro.leg.br/media/sapl/public/normajuridica/2026/4033/lei-3724.pdf",
+     "sha256": "a4b790c57aeb4863d974308fe356f29617f87f7ec91aaef3218dd3b306360d7d"
+    }
+   ]
+  },
+  {
+   "slug": "ouro-preto-do-oeste/lc-2026-00058",
+   "unit": "ouro-preto-do-oeste",
+   "short": "LC 58/2026",
+   "title": "Lei Complementar nº 58, de 15 de setembro de 2026",
+   "url": "https://sapl.ouropretodooeste.ro.leg.br/norma/4032",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 15,
+     "source_url": "https://sapl.ouropretodooeste.ro.leg.br/media/sapl/public/normajuridica/2026/4032/lei_complementar-58.pdf",
+     "sha256": "22bd5302922dba6a8b20e534a2ebbfe0aac705b42c39616b36616120100d9134"
+    }
+   ]
+  },
+  {
+   "slug": "ouro-preto-do-oeste/lei-2026-03717",
+   "unit": "ouro-preto-do-oeste",
+   "short": "Lei 3717/2026",
+   "title": "Lei nº 3.717, de 24 de agosto de 2026",
+   "url": "https://sapl.ouropretodooeste.ro.leg.br/norma/4026",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 17,
+     "source_url": "https://sapl.ouropretodooeste.ro.leg.br/media/sapl/public/normajuridica/2026/4026/lei-3717.pdf",
+     "sha256": "edf22864517708c09b34f57a2c859e7a296bf2bf506c9a8bb80d8b64418040fa"
+    }
+   ]
+  },
+  {
+   "slug": "ouro-preto-do-oeste/lei-2026-03714",
+   "unit": "ouro-preto-do-oeste",
+   "short": "Lei 3714/2026",
+   "title": "Lei nº 3.714, de 14 de julho de 2026",
+   "url": "https://sapl.ouropretodooeste.ro.leg.br/norma/4023",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 3,
+     "source_url": "https://sapl.ouropretodooeste.ro.leg.br/media/sapl/public/normajuridica/2026/4023/lei-3714.pdf",
+     "sha256": "d423e4bf9727d86e9f00585fc3021f69fccba72fbb33ff2deb7949bcf67dd0cb"
+    }
+   ]
+  },
+  {
+   "slug": "ouro-preto-do-oeste/lei-2026-03703",
+   "unit": "ouro-preto-do-oeste",
+   "short": "Lei 3703/2026",
+   "title": "Lei nº 3.703, de 7 de julho de 2026",
+   "url": "https://sapl.ouropretodooeste.ro.leg.br/norma/4013",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 37,
+     "source_url": "https://sapl.ouropretodooeste.ro.leg.br/media/sapl/public/normajuridica/2026/4013/lei-3703.pdf",
+     "sha256": "12aef65b104951209d86f268675de796650ec07010870d7113f83e2c864aed45"
+    }
+   ]
+  },
+  {
+   "slug": "ouro-preto-do-oeste/lei-2026-03692",
+   "unit": "ouro-preto-do-oeste",
+   "short": "Lei 3692/2026",
+   "title": "Lei nº 3.692, de 22 de junho de 2026",
+   "url": "https://sapl.ouropretodooeste.ro.leg.br/norma/4011",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 7,
+     "source_url": "https://sapl.ouropretodooeste.ro.leg.br/media/sapl/public/normajuridica/2026/4011/lei-3692.pdf",
+     "sha256": "34f710bfbc539307dbcfbf576f44fe5ba7f6f03c334d214c5552c6cb9704a204"
+    }
+   ]
+  },
+  {
+   "slug": "ouro-preto-do-oeste/lei-2026-03672",
+   "unit": "ouro-preto-do-oeste",
+   "short": "Lei 3672/2026",
+   "title": "Lei nº 3.672, de 9 de abril de 2026",
+   "url": "https://sapl.ouropretodooeste.ro.leg.br/norma/3994",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 10,
+     "source_url": "https://sapl.ouropretodooeste.ro.leg.br/media/sapl/public/normajuridica/2026/3994/lei-3672.pdf",
+     "sha256": "ba98f4a1431a7dc138ec87067ce7675f9f1e514c268e91dc57d14345926e53bb"
+    }
+   ]
   }
  ]
 }

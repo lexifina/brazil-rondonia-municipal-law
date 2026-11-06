@@ -7,6 +7,7 @@ This file is written by the build on 2026-11-06, the day the source data was ret
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Câmara Municipal de Guajará-Mirim, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.guajaramirim.ro.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Guajará-Mirim, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.guajaramirim.ro.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Ouro Preto do Oeste, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.ouropretodooeste.ro.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Ouro Preto do Oeste, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.ouropretodooeste.ro.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -53,20 +54,27 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `guajara-mirim/lei-2026-03145` | Lei nº 3.145, de 14 de julho de 2026 | 1 | 2026-07-15 to 2026-07-15 |
 | `guajara-mirim/lei-2026-03143` | Lei nº 3.143, de 13 de julho de 2026 | 1 | 2026-07-14 to 2026-07-14 |
 | `guajara-mirim/lei-2026-03138` | Lei nº 3.138, de 6 de julho de 2026 | 1 | 2026-07-07 to 2026-07-07 |
+| `ouro-preto-do-oeste/lei-2026-03724` | Lei nº 3.724, de 15 de setembro de 2026 | 1 | 2026-09-15 to 2026-09-15 |
+| `ouro-preto-do-oeste/lc-2026-00058` | Lei Complementar nº 58, de 15 de setembro de 2026 | 1 | 2026-09-15 to 2026-09-15 |
+| `ouro-preto-do-oeste/lei-2026-03717` | Lei nº 3.717, de 24 de agosto de 2026 | 1 | 2026-08-24 to 2026-08-24 |
+| `ouro-preto-do-oeste/lei-2026-03714` | Lei nº 3.714, de 14 de julho de 2026 | 1 | 2026-07-14 to 2026-07-14 |
+| `ouro-preto-do-oeste/lei-2026-03703` | Lei nº 3.703, de 7 de julho de 2026 | 1 | 2026-07-07 to 2026-07-07 |
+| `ouro-preto-do-oeste/lei-2026-03692` | Lei nº 3.692, de 22 de junho de 2026 | 1 | 2026-06-22 to 2026-06-22 |
+| `ouro-preto-do-oeste/lei-2026-03672` | Lei nº 3.672, de 9 de abril de 2026 | 1 | 2026-04-09 to 2026-04-09 |
 
-The build made 39 commits:
+The build made 46 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 39 | first version of an act |
+| 46 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-06.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 39 laws in the record.
-- 78 tags.
+- 46 laws in the record.
+- 92 tags.
 
 ## Dates
 
@@ -78,13 +86,13 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `9b41dc60d30b1ccbb73cd7f1d6d8984e16ed07bd6f5f7c4ace7d505cf8348f61` (164653 bytes).
+- Corpus: sha256 `6ba15ef24f0945c4318206834eb2950c6d7ba35689b0dfd3f49986bc932ddfbf` (224922 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-39 versions of 39 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 

@@ -12,6 +12,14 @@
    "code": "BR-RO-GUAJARA-MIRIM",
    "official_code": "1100106",
    "source": "sapl.guajaramirim.ro.leg.br"
+  },
+  {
+   "id": "ouro-preto-do-oeste",
+   "folder": "ouro-preto-do-oeste",
+   "name": "Ouro Preto do Oeste",
+   "code": "BR-RO-OURO-PRETO-DO-OESTE",
+   "official_code": "1100155",
+   "source": "sapl.ouropretodooeste.ro.leg.br"
   }
  ]
 }

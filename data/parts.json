@@ -43,6 +43,18 @@
     "guajara-mirim/lei-2026-03185"
    ],
    "sha256": "e6d78140d6f33143aacab227c010abc092f80d82a4086bcd8ef0c8494e580f5d"
+  },
+  "ouro-preto-do-oeste--30-leis-001.json": {
+   "acts": [
+    "ouro-preto-do-oeste/lc-2026-00058",
+    "ouro-preto-do-oeste/lei-2026-03672",
+    "ouro-preto-do-oeste/lei-2026-03692",
+    "ouro-preto-do-oeste/lei-2026-03703",
+    "ouro-preto-do-oeste/lei-2026-03714",
+    "ouro-preto-do-oeste/lei-2026-03717",
+    "ouro-preto-do-oeste/lei-2026-03724"
+   ],
+   "sha256": "7a2c1080a7d0a504fada9874dfd7bd2ae10c514218fdc98fb515368da835c9b3"
   }
  },
  "schema": 1

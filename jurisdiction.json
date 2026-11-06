@@ -7,6 +7,7 @@
   "repo": "https://github.com/lexifina/brazil-rondonia-municipal-law",
   "build": "built: the municipal law of Rondônia from the Câmaras Municipais' SAPL",
   "units": [
-    "guajara-mirim"
+    "guajara-mirim",
+    "ouro-preto-do-oeste"
   ]
 }
